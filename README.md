@@ -5,12 +5,10 @@
 
 ---
 
-### 🚀 Tech Stack & Skills
-- **Frontend:** React.js, Tailwind CSS, shadcn/ui, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose
-- **Authentication & Security:** JWT, bcrypt, Role-based Auth
-- **Dev Tools:** Git, GitHub, Postman, VSCode, Vite
-- **Other Interests:** Clean UI/UX, Responsive Design, Full-stack architecture
+I’m currently diving into  *MERN Stack* , *Python* , *AI/ML*
+
+Fun fact: *Other than coding I love coding🧼*
+
 
 ---
 
