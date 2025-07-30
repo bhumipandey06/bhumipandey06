@@ -19,6 +19,11 @@
 
 --- 
 
+### 📫 How to reach me
+**Email:** bhumipandeybp06@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/bhumi-pandey06
+**X:** https://x.com/BhumiPandey06
+
 ### 🔭 I’m currently working on
 **DevConnect** – A full-stack developer portfolio app with profile management, authentication, and public sharing.  
 
@@ -33,12 +38,6 @@ Best practices for scaling full-stack apps and integrating third-party APIs smoo
 
 ### 💬 Ask me about
 React, Tailwind CSS, Node.js, Express.js, MongoDB, Authentication, Git/GitHub workflows, or UI Design tips.
-
-### 📫 How to reach me
-**Email:** bhumipandeybp06@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/bhumi-pandey06
-
-**X:** https://x.com/BhumiPandey06
 
 ### 😄 Pronouns
 She/Her
