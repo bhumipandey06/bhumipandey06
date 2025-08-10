@@ -1,13 +1,35 @@
-# 💫 Hi 👋, I'm Bhumi Pandey  
-**A passionate Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner from India**
+# Hi, I'm Bhumi Pandey 👋 
+**A passionate Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner**
 
-📧 **Email Me:** bhumipandeybp06@gmail.com  
 
 ---
 
-I’m currently diving into  *MERN Stack* , *Python* , *AI/ML*
+## 🌱 I’m currently learning  
+Advanced backend architectures , cloud deployment best practices, and diving into **AI/ML fundamentals** to integrate intelligent features into web applications.  
 
-Fun fact: *Other than coding I love coding🧼*
+## 💼 My expertise  
+Full-stack **MERN** development – building performant, user-friendly applications from scratch to deployment. Skilled at creating responsive UIs, designing robust APIs, and ensuring seamless frontend–backend integration.  
+
+## 👯 I’m open to collaborating on  
+- Real-world **MERN** projects with complex features  
+- UI/UX optimization for better user engagement  
+- AI-powered web applications & API integrations  
+
+## 💬 Ask me about  
+React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, authentication strategies, Git/GitHub workflows, UI design principles, and building secure & maintainable applications.  
+
+## 🚀 Highlights  
+- Built and deployed **several full-stack projects** 
+- Experienced in **end-to-end project development** – from idea to deployment  
+- Passionate about blending **AI** with modern web technologies for smarter user experiences
+
+## 🤔 I’m seeking help with  
+Scaling full-stack apps for high traffic, optimizing database queries, and best practices for integrating AI/ML models into production systems.  
+
+
+---
+
+⭐ **Fun fact:** I believe great code is like great design – simple, elegant, and solves real problems.
 
 
 ---
@@ -19,32 +41,11 @@ Fun fact: *Other than coding I love coding🧼*
 
 ### 📫 How to reach me
 **Email:** bhumipandeybp06@gmail.com  
+
 **LinkedIn:** https://www.linkedin.com/in/bhumi-pandey06
+
 **X:** https://x.com/BhumiPandey06
 
-### 🔭 I’m currently working on
-**DevConnect** – A full-stack developer portfolio app with profile management, authentication, and public sharing.  
-
-### 🌱 I’m currently learning
-Advanced backend systems (JWT auth, role-based access, deployment best practices), clean architecture, and building production-grade web apps.
-
-### 👯 I’m looking to collaborate on
-Real-world MERN projects, UI/UX improvements, or anything related to full-stack development.
-
-### 🤔 I’m looking for help with
-Best practices for scaling full-stack apps and integrating third-party APIs smoothly.
-
-### 💬 Ask me about
-React, Tailwind CSS, Node.js, Express.js, MongoDB, Authentication, Git/GitHub workflows, or UI Design tips.
-
-### 😄 Pronouns
-She/Her
-
-### ⚡ Fun fact
-I love turning ideas into real products — from wireframes to deployment 🚀  
-Also, I’m a strong believer in **"learning by building"** 💻❤️
-
----
 
 _Thanks for visiting my profile! Let's build something amazing together._ 🌟
 
