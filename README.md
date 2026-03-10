@@ -37,20 +37,6 @@ Currently expanding my skill set into **Data Science**, focusing on **data analy
 
 ---
 
-## 💬 Ask Me About
-
-- React.js
-- Next.js
-- Tailwind CSS
-- Node.js
-- Express.js
-- MongoDB
-- Authentication & APIs
-- Git & GitHub
-- Data analysis using Python
-
----
-
 # 🛠 Tech Stack
 
 ### 💻 Web Development
@@ -123,5 +109,3 @@ https://x.com/BhumiPandey06
 I believe **great software combines clean code, good design, and meaningful data insights.**
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=bhumipandey06&icon=0&color=0)
