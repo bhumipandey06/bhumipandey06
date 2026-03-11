@@ -1,6 +1,6 @@
 # Hi, I'm Bhumi Pandey 👋
 
-💻 **Full Stack Developer (MERN) | Aspiring Data Scientist**
+💻 **Full Stack Developer | Aspiring Data Scientist**
 
 I’m passionate about building scalable web applications and exploring how **data and AI can enhance modern software**.  
 Currently expanding my skill set into **Data Science**, focusing on **data analysis, visualization, and machine learning fundamentals**.
